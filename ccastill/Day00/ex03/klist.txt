@@ -1,0 +1,7 @@
+Credentials cache: API:25024
+        Principal: ccastill@42.US.ORG
+
+  Issued                Expires               Principal
+Jun 26 13:48:31 2017  Jun 26 23:48:31 2017  krbtgt/42.US.ORG@42.US.ORG
+Jun 26 13:48:32 2017  Jun 26 23:48:31 2017  ldap/ldap-proxy.42.us.org@42.US.ORG
+Jun 26 13:52:31 2017  Jun 26 23:48:31 2017  host/vgs-fn1.42.us.org@42.US.ORG
